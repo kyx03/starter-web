@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    thanks teacher
 
 # TECHNOLOGY COLOPHON
 
